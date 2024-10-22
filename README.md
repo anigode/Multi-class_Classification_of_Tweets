@@ -1,4 +1,4 @@
-###  Multi-class Classification of Tweets
+#  Multi-class Classification of Tweets
 ## Project Overview
 This project implements multi-class classification to categorize tweets into various classes based on their content. The tweets are classified into categories like sports & gaming, pop culture, business & entrepreneurs, daily life, science & technology, and arts & culture. The goal of this project is to predict the class of a tweet using machine learning models like Random Forest, Decision Tree, Support Vector Machine, and Logistic Regression.
 - Table of Contents
